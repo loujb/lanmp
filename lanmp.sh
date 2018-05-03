@@ -1,3 +1,0 @@
-tomcat
-mysql
-redis
